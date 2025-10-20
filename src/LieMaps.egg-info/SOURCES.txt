@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+src/LieMaps.egg-info/PKG-INFO
+src/LieMaps.egg-info/SOURCES.txt
+src/LieMaps.egg-info/dependency_links.txt
+src/LieMaps.egg-info/requires.txt
+src/LieMaps.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+numpy
+sympy
+matplotlib
+scipy
+
+[dev]
+ruff
+black

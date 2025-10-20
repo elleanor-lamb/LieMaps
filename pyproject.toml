@@ -13,7 +13,8 @@ dependencies = [
     "numpy",
     "sympy",
     "matplotlib",
-    "scipy"
+    "scipy",
+    "tpsa"
 ]
 
 [project.optional-dependencies]
