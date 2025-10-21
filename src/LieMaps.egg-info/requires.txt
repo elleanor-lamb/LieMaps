@@ -2,6 +2,7 @@ numpy
 sympy
 matplotlib
 scipy
+nafflib
 
 [dev]
 ruff

@@ -10,6 +10,7 @@ Requires-Dist: numpy
 Requires-Dist: sympy
 Requires-Dist: matplotlib
 Requires-Dist: scipy
+Requires-Dist: nafflib
 Provides-Extra: dev
 Requires-Dist: ruff; extra == "dev"
 Requires-Dist: black; extra == "dev"
